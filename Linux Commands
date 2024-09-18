@@ -1,0 +1,45 @@
+1) Use of linux commands :-
+    Using the Linux command line is an effective way to increase efficiency. 
+    By typing commands, you can quickly and easily navigate directories, copy and move files, 
+    search for text within files, and manage software packages.
+
+2) Difference :-
+
+    Linux                                                        Windows
+
+Linux is an open-source operating                  Windows is an operating system developed for desktops
+system developed for desktops
+
+Open-source and free of cost                       Not an open-source and it is paid
+
+Linux is machine-friendly. So user                 Windows is simple with rich GUI options. 
+                                                   User doesn’t need any knowledge of programming. It is more useful for non-technical users.
+must have some exposure to Linux 
+commands. It takes more time for 
+users to get used to Linux
+
+
+Monolithic kernel                                  Microkernel
+
+Forward slash is used as a path                    Backward slash is used as a path separator
+separator
+
+More secure                                        Less secure
+
+Linux is highly case-sensitive                     Windows is not case sensitive
+
+Linux updates less frequently                      Windows updates frequently
+
+Linux is written in C and Assembly language        Windows is written in C++ and Assembly language
+
+Linux uses tree structure to store files.          Windows uses directories such as C, D, E and more and folders are used to store files
+In Linux everything is considered as a file
+
+
+3) 
+
+
+
+
+
+
